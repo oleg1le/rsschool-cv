@@ -51,12 +51,8 @@ function generateThead(tableHeading) {
  + JavaScript/Front-end. Stage 0
  + https://learn.javascript.ru/
  + https://doka.guide/
- + https://www.udemy.com/course/modern-javascript-from-beginning/ (began to study) Современный JavaScript + Vue с нуля на реальных проектах
 
   **** 
 
- ### Language:
 
- English level - A1 
  
- I am studying at an English language school ‘EnglishPapa'
