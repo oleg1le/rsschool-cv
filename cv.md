@@ -1,4 +1,4 @@
-
+[rsschool-cv](https://oleg1le.github.io/rsschool-cv/cv)
 
 
 # Oleh Lebediev
@@ -56,7 +56,7 @@ function generateThead(tableHeading) {
 
  ### Language:
 
- English level - A2
- Ukrainian - native
- Russian - native
+ + English level - A2
+ + Ukrainian - native
+ + Russian - native
  
