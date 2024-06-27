@@ -54,5 +54,9 @@ function generateThead(tableHeading) {
 
   **** 
 
+ ### Language:
 
+ English level - A2
+ Ukrainian - native
+ Russian - native
  
