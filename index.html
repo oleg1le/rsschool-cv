@@ -113,6 +113,22 @@
         </ul>
       </section>
 
+      <section class="section section__code" id="code">
+        <h2>Code</h2>
+        <pre class="main__pre">
+          <code>
+            function changeMedia(event) {
+              const item = event.target.dataset.item
+              main.style.backgroundImage = `url(./assets/img/${item}.jpeg)`;
+              loadSouds(item);
+              if (isPlay) {
+                play();
+              }
+            }
+          </code>
+        </pre>
+      </section>
+
     </div>
 
   </main>
